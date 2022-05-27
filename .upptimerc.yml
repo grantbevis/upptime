@@ -11,6 +11,12 @@ sites:
     url: https://news.ycombinator.com
   - name: VesselsValue
     url: https://www.vesselsvalue.com
+    icon: https://www.vesselsvalue.com/favicon.ico
+  - name: VesselsValue API
+    url: https://api.vesselsvalue.com
+    icon: https://www.vesselsvalue.com/favicon.ico
+    expectedStatusCodes:
+      - 401 # Non prod monitoring
     
 assignees:
   - grantbevis
