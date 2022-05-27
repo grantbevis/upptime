@@ -23,7 +23,7 @@ assignees:
   - grantbevis
 
 status-website:
-  theme: ocean
+  theme: light
   cname: status.bev.is
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
